@@ -1,0 +1,36 @@
+https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E8%97%A9 : 薩摩藩
+https://ja.wikipedia.org/wiki/%E5%87%BA%E6%B0%B4%E9%83%A1 : 出水郡
+https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BD%90%E9%83%A1 : 伊佐郡
+https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E9%83%A1 : 薩摩郡
+https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9F%8E%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C) : 高城郡 (鹿児島県)
+https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E9%83%A1: 日置郡
+https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E9%83%A1 : 鹿児島郡
+https://ja.wikipedia.org/wiki/%E8%B0%BF%E5%B1%B1%E9%83%A1 : 谿山郡
+https://ja.wikipedia.org/wiki/%E6%8F%96%E5%AE%BF%E9%83%A1 : 揖宿郡
+https://ja.wikipedia.org/wiki/%E9%A0%B4%E5%A8%83%E9%83%A1 : 頴娃郡
+https://ja.wikipedia.org/wiki/%E7%B5%A6%E9%BB%8E%E9%83%A1 : 給黎郡
+https://ja.wikipedia.org/wiki/%E9%98%BF%E5%A4%9A%E9%83%A1 : 阿多郡
+https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C) : 川辺郡 (鹿児島県)
+https://ja.wikipedia.org/wiki/%E7%94%91%E5%B3%B6%E9%83%A1 : 甑島郡
+https://ja.wikipedia.org/wiki/%E8%8F%B1%E5%88%88%E9%83%A1 : 菱刈郡
+https://ja.wikipedia.org/wiki/%E5%A7%B6%E8%89%AF%E9%83%A1 : 姶良郡
+https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E9%83%A1 : 桑原郡
+https://ja.wikipedia.org/wiki/%E6%9B%BD%E6%96%BC%E9%83%A1 : 曽於郡
+https://ja.wikipedia.org/wiki/%E8%82%9D%E5%B1%9E%E9%83%A1 : 肝属郡
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9A%85%E9%83%A1 : 大隅郡
+https://ja.wikipedia.org/wiki/%E7%86%8A%E6%AF%9B%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C) : 熊毛郡 (鹿児島県)
+https://ja.wikipedia.org/wiki/%E9%A6%AD%E8%AC%A8%E9%83%A1 : 馭謨郡
+https://ja.wikipedia.org/wiki/%E8%AB%B8%E7%9C%8C%E9%83%A1 : 諸県郡
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9B%8E%E5%94%B9%E9%83%A1 : 東囎唹郡
+https://ja.wikipedia.org/wiki/%E5%8D%97%E8%AB%B8%E7%9C%8C%E9%83%A1 : 南諸県郡
+https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%AB%B8%E7%9C%8C%E9%83%A1 : 西諸県郡
+https://ja.wikipedia.org/wiki/%E5%8C%97%E8%AB%B8%E7%9C%8C%E9%83%A1 : 北諸県郡
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%AB%B8%E7%9C%8C%E9%83%A1 : 東諸県郡
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C) : 大島郡 (鹿児島県)
+https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%A0%AD%E9%83%A1 : 国頭郡
+https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%A0%AD%E9%83%A1 : 中頭郡
+https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8F%A4%E9%83%A1 : 宮古郡
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%B1%E8%AB%B8%E5%B3%B6 : 大東諸島
+https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%B0%BB%E9%83%A1 : 島尻村
+https://ja.wikipedia.org/wiki/%E5%85%AB%E9%87%8D%E5%B1%B1%E9%83%A1 : 八重山郡
+https://ja.wikipedia.org/wiki/%E5%B0%96%E9%96%A3%E8%AB%B8%E5%B3%B6 : 尖閣諸島
