@@ -1,0 +1,1 @@
+("PREF_NAME" = '熊本県' AND ("CITY_NAME" LIKE '上天草市%' OR "CITY_NAME" LIKE '天草市%' OR ("CITY_NAME" LIKE '八代市%' AND (("S_NAME" LIKE '泉町%' AND (("S_NAME" LIKE '泉町久連子%') OR ("S_NAME" LIKE '泉町椎原%') OR ("S_NAME" LIKE '泉町仁田尾%') OR ("S_NAME" LIKE '泉町葉木%') OR ("S_NAME" LIKE '泉町樅木%'))))) OR "CITY_NAME" = '苓北町'))
