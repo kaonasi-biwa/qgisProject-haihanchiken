@@ -1,0 +1,1 @@
+("PREF_NAME" = '長崎県' AND ("CITY_NAME" LIKE '五島市%' OR ("CITY_NAME" LIKE '佐世保市%' AND (("S_NAME" LIKE '宇久町%'))) OR "CITY_NAME" = '新上五島町'))
