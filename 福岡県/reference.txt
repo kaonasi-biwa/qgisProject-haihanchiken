@@ -1,0 +1,16 @@
+https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E8%97%A9 : 福岡藩
+https://ja.wikipedia.org/wiki/%E7%B3%9F%E5%B1%8B%E9%83%A1 : 糟屋郡
+https://ja.wikipedia.org/wiki/%E5%AE%97%E5%83%8F%E9%83%A1 : 宗像郡
+https://ja.wikipedia.org/wiki/%E9%81%A0%E8%B3%80%E9%83%A1 : 遠賀郡
+https://ja.wikipedia.org/wiki/%E9%9E%8D%E6%89%8B%E9%83%A1 : 鞍手郡
+https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%BA%A7%E9%83%A1 : 上座郡
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%AC%A0%E9%83%A1 : 御笠郡
+https://ja.wikipedia.org/wiki/%E9%82%A3%E7%8F%82%E9%83%A1_(%E7%A6%8F%E5%B2%A1%E7%9C%8C) : 那珂郡 (福岡県)
+https://ja.wikipedia.org/wiki/%E5%B8%AD%E7%94%B0%E9%83%A1_(%E7%A6%8F%E5%B2%A1%E7%9C%8C) : 席田郡 (福岡県)
+https://ja.wikipedia.org/wiki/%E6%97%A9%E8%89%AF%E9%83%A1 : 早良郡
+https://ja.wikipedia.org/wiki/%E5%BF%97%E6%91%A9%E9%83%A1_(%E7%A6%8F%E5%B2%A1%E7%9C%8C) : 志摩郡 (福岡県)
+https://ja.wikipedia.org/wiki/%E7%A9%82%E6%B3%A2%E9%83%A1 : 穂波郡
+https://ja.wikipedia.org/wiki/%E5%98%89%E9%BA%BB%E9%83%A1 : 嘉麻郡
+https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%BA%A7%E9%83%A1 : 下座郡
+https://ja.wikipedia.org/wiki/%E5%A4%9C%E9%A0%88%E9%83%A1 : 夜須郡
+https://ja.wikipedia.org/wiki/%E6%80%A1%E5%9C%9F%E9%83%A1 : 怡土郡
