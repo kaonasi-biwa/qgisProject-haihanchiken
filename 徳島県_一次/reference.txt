@@ -1,0 +1,13 @@
+https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E8%97%A9 : 徳島藩
+https://ja.wikipedia.org/wiki/%E5%90%8D%E6%9D%B1%E9%83%A1 : 名東郡
+https://ja.wikipedia.org/wiki/%E5%90%8D%E8%A5%BF%E9%83%A1 : 名西郡
+https://ja.wikipedia.org/wiki/%E6%9D%BF%E9%87%8E%E9%83%A1 : 板野郡
+https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E9%83%A1 : 阿波郡
+https://ja.wikipedia.org/wiki/%E9%BA%BB%E6%A4%8D%E9%83%A1 : 麻植郡
+https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%A6%AC%E9%83%A1 : 美馬郡
+https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A5%BD%E9%83%A1 : 三好郡
+https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%83%A8%E9%83%A1_(%E5%BE%B3%E5%B3%B6%E7%9C%8C) : 海部郡 (徳島県)
+https://ja.wikipedia.org/wiki/%E9%82%A3%E8%B3%80%E9%83%A1 : 那賀郡
+https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E9%83%A1 : 勝浦郡
+https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8E%9F%E9%83%A1 : 三原郡
+https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%90%8D%E9%83%A1 : 津名郡
