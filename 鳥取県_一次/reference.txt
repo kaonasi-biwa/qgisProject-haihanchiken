@@ -1,0 +1,20 @@
+https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E8%97%A9 : 鳥取藩
+https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%9C%AC%E8%97%A9 : 福本藩
+https://ja.wikipedia.org/wiki/%E5%B2%A9%E4%BA%95%E9%83%A1 : 岩井郡
+https://ja.wikipedia.org/wiki/%E6%B3%95%E7%BE%8E%E9%83%A1 : 法美郡
+https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9D%B1%E9%83%A1 : 八東郡
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%8A%E9%83%A1_(%E9%B3%A5%E5%8F%96%E7%9C%8C) : 八上郡 (鳥取県)
+https://ja.wikipedia.org/wiki/%E6%99%BA%E9%A0%AD%E9%83%A1 : 智頭郡
+https://ja.wikipedia.org/wiki/%E9%82%91%E7%BE%8E%E9%83%A1 : 邑美郡
+https://ja.wikipedia.org/wiki/%E9%AB%98%E8%8D%89%E9%83%A1 : 高草郡
+https://ja.wikipedia.org/wiki/%E6%B0%97%E5%A4%9A%E9%83%A1_(%E9%B3%A5%E5%8F%96%E7%9C%8C) : 気多郡 (鳥取県)
+https://ja.wikipedia.org/wiki/%E6%B2%B3%E6%9D%91%E9%83%A1 : 河村郡
+https://ja.wikipedia.org/wiki/%E4%B9%85%E7%B1%B3%E9%83%A1_(%E9%B3%A5%E5%8F%96%E7%9C%8C) : 久米郡 (鳥取県)
+https://ja.wikipedia.org/wiki/%E5%85%AB%E6%A9%8B%E9%83%A1 : 八橋郡
+https://ja.wikipedia.org/wiki/%E4%BC%9A%E8%A6%8B%E9%83%A1 : 会見郡
+https://ja.wikipedia.org/wiki/%E6%B1%97%E5%85%A5%E9%83%A1 : 汗入郡
+https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E9%83%A1 : 日野郡
+https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E9%83%A1 : 秩父郡
+https://ja.wikipedia.org/wiki/%E5%8D%B0%E5%8D%97%E9%83%A1 : 印南郡
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%9D%B1%E9%83%A1 : 神東郡
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%A5%BF%E9%83%A1 : 神西郡
