@@ -1,0 +1,1 @@
+("PREF_NAME" = '島根県' AND ("CITY_NAME" = '海士町' OR "CITY_NAME" = '西ノ島町' OR "CITY_NAME" = '知夫村' OR "CITY_NAME" = '隠岐の島町'))
