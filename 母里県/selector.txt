@@ -1,0 +1,1 @@
+("PREF_NAME" = '島根県' AND (("CITY_NAME" LIKE '安来市%' AND (("S_NAME" LIKE '伯太町%') OR ("S_NAME" LIKE '大塚町%') OR ("S_NAME" LIKE '久白町%') OR ("S_NAME" LIKE '広瀬町%' AND (("S_NAME" LIKE '広瀬町西谷%') OR ("S_NAME" LIKE '広瀬町梶福留%'))) OR ("S_NAME" LIKE '清瀬町%')))))
