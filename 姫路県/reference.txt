@@ -1,0 +1,11 @@
+https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E8%97%A9 : 姫路藩
+https://ja.wikipedia.org/wiki/%E9%A3%BE%E6%9D%B1%E9%83%A1 : 飾東郡
+https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E9%83%A1 : 加古郡
+https://ja.wikipedia.org/wiki/%E5%8D%B0%E5%8D%97%E9%83%A1 : 印南郡
+https://ja.wikipedia.org/wiki/%E6%8F%96%E6%9D%B1%E9%83%A1 : 揖東郡
+https://ja.wikipedia.org/wiki/%E6%8F%96%E8%A5%BF%E9%83%A1 : 揖西郡
+https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%9D%B1%E9%83%A1 : 加東郡
+https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%A5%BF%E9%83%A1 : 加西郡
+https://ja.wikipedia.org/wiki/%E9%A3%BE%E8%A5%BF%E9%83%A1 : 飾西郡
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%A5%BF%E9%83%A1 : 神西郡
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%9D%B1%E9%83%A1 : 神東郡
