@@ -1,0 +1,1 @@
+("PREF_NAME" = '京都府' AND ("CITY_NAME" LIKE '舞鶴市%' OR ("CITY_NAME" LIKE '宮津市%' AND (("S_NAME" LIKE '由良%'))) OR ("CITY_NAME" LIKE '福知山市%' AND (("S_NAME" LIKE '河守%' AND (("S_NAME" LIKE '河守上野%') OR ("S_NAME" LIKE '河守金屋%'))) OR ("S_NAME" LIKE '河東%') OR ("S_NAME" LIKE '有路%')))))
