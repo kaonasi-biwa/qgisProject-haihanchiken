@@ -1,0 +1,33 @@
+https://ja.wikipedia.org/wiki/%E5%B0%BC%E5%B4%8E%E8%97%A9 : 尼崎藩
+https://hyogo.koaza.info/ : 兵庫県小字地図
+https://ja.wikipedia.org/wiki/%E8%8F%9F%E5%8E%9F%E9%83%A1 : 菟原郡
+https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B1%B1%E6%9D%91_(%E5%85%B5%E5%BA%AB%E7%9C%8C) : 本山村 (兵庫県)
+https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B1%B1%E5%8D%97%E7%94%BA : 本山南町
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%BD%B1%E7%94%BA : 御影町
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%BD%B1%E9%83%A1%E5%AE%B6 : 御影郡家
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%BD%B1_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 御影 (神戸市)
+https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 八幡町 (神戸市)
+https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA) : 山田町 (神戸市灘区)
+https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 浜田町 (神戸市)
+https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B1%B1%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 宮山町 (神戸市)
+https://ja.wikipedia.org/wiki/%E6%97%A5%E5%B0%BE%E7%94%BA : 日尾町
+https://ja.wikipedia.org/wiki/%E6%A1%9C%E5%8F%A3%E7%94%BA : 桜口町
+https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%BE%8C%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 森後町 (神戸市)
+https://ja.wikipedia.org/wiki/%E5%8F%8B%E7%94%B0%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 友田町 (神戸市)
+https://ja.wikipedia.org/wiki/%E9%B6%B4%E7%94%B2 : 鶴甲
+https://ja.wikipedia.org/wiki/%E5%82%99%E5%BE%8C%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 備後町 (神戸市)
+https://ja.wikipedia.org/wiki/%E6%B7%B1%E7%94%B0%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 深田町 (神戸市)
+https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%9D%BE%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 赤松町 (神戸市)
+https://ja.wikipedia.org/wiki/%E6%B0%B8%E6%89%8B%E7%94%BA : 永手町
+https://ja.wikipedia.org/wiki/%E5%85%AD%E7%94%B2%E5%8F%B0%E7%94%BA : 六甲台町
+https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%B1%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 土山町
+https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%8F%A3%E7%94%BA : 寺口町
+https://ja.wikipedia.org/wiki/%E6%A1%9C%E3%82%B1%E4%B8%98%E7%94%BA_(%E7%A5%9E%E6%88%B8%E5%B8%82) : 桜ケ丘町 (神戸市)
+https://ja.wikipedia.org/wiki/%E4%B8%80%E7%8E%8B%E5%B1%B1%E7%94%BA : 一王山町
+https://www.city.kobe.lg.jp/documents/45313/chuokuayumi02.pdf : 中央区のあゆみ / 神戸市
+https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E9%83%A1 : 有馬郡
+https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E9%83%A1 : 川辺郡
+https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%BA%AB%E9%83%A1 : 武庫郡
+https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%8F%AF%E9%83%A1 : 多可郡
+https://ja.wikipedia.org/wiki/%E5%AE%8D%E7%B2%9F%E9%83%A1 : 宍粟郡
+https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E9%83%A1 : 赤穂市
